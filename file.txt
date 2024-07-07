@@ -1,6 +1,6 @@
 
 Alex has a cat.
 
-Lucy has cats.
+Lucy has cat.
 
 Tadeáš has dogs and cats.
