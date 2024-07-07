@@ -2,5 +2,3 @@
 Alex has a cat.
 
 Lucy has cats.
-
-Tadeáš has dogs.
